@@ -20,4 +20,4 @@ The final product is a travel itinerary in the country of Malaysia where it will
 
 ![WeatherPy_travel_map](https://user-images.githubusercontent.com/70525492/96667811-64251d80-131f-11eb-9566-27e143f079dd.png)
 
-![WeatherPy_travel_map_markers](https://user-images.githubusercontent.com/70525492/96667815-66877780-131f-11eb-80d5-d099cc19f872.png)
+![WeatherPy_travel_map_markers](https://user-images.githubusercontent.com/70525492/96785757-e4e22900-13b4-11eb-8b83-0e70eb60c62f.png)
