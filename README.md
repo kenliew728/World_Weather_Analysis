@@ -3,7 +3,7 @@
 The purpose of this challenge is to create a travel itinerary that allows user to view the travel route and weather description.
 
 ## **Method**
-3 steps were followed to create a travel itinerary.
+Three steps were followed to create a travel itinerary.
 
 1. Step 1
    -  An API call was made to the OpenWeatherMap API to generate 2,000 random latitudes and longtitutes
@@ -16,7 +16,7 @@ The purpose of this challenge is to create a travel itinerary that allows user t
       - This is possible by enabling the "directions API" on Google Map API. 
 
 ## **Summary**
-The final product is a travel itinerary in the country of Malaysia where it will take a traveler around the country tour while enjoying great food the country has to offer!
+The final product is a travel itinerary in the country of Malaysia where it will take a traveler around the country tour while enjoying great food the country has to offer and great summerlike weather!
 
 ![WeatherPy_travel_map](https://user-images.githubusercontent.com/70525492/96667811-64251d80-131f-11eb-9566-27e143f079dd.png)
 
